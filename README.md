@@ -8,38 +8,48 @@
 ---
 
 ### 🧠 About me
-- 🎓 Student & self-taught developer  
+- 🎓 Student & self-taught developer
 - 🕹️ Interested in **game development**, **C#**, **Java**, **graphics & shaders**
 - 🔥 I love building projects and learning by doing
 - 🌍 Based in Spain
 
 ---
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,java,cpp,unity,git,github,html,css" />
-</p>
+### 🐍 My Contributions
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcPladellorensPerez/MarcPladellorensPerez/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcPladellorensPerez/MarcPladellorensPerez/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MarcPladellorensPerez/MarcPladellorensPerez/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ---
 
-### 📌 Featured Projects
-- 🎮 **DestroyPlanet** – Game prototype  
-- 🧪 **VideogamePlatformWorkspace** – C# experiments  
-- 🚀 **App-Program-Workspace** – Java practice  
+### 🛠️ Tech Stack
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cs,unity,java,cpp,git,github,html,css,vscode,visualstudio&perline=10" />
+</div>
 
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcPladellorensPerez&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=MarcPladellorensPerez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Marc's Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcPladellorensPerez&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Marc's Top Langs" />
+  </p>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcPladellorensPerez&layout=compact&theme=tokyonight" />
-</p>
+---
+
+### 📌 Featured Projects
+- 🎮 [**DestroyPlanet**](https://github.com/MarcPladellorensPerez/DestroyPlanet) – Game prototype in ShaderLab
+- 🧪 [**VideogamePlatformWorkspace**](https://github.com/MarcPladellorensPerez/VideogamePlatformWorkspace) – C# experiments & logic
+- 🚀 [**App-Program-Workspace**](https://github.com/MarcPladellorensPerez/App-Program-Workspace) – Java practice & tools
 
 ---
 
 ### 📫 Contact
-- 💼 LinkedIn: *(pon tu link)*
-- 📧 Email: *(opcional)*
+- 💼 LinkedIn: [Marc Pladellorens](https://www.linkedin.com/in/marc-pladellorens-pérez-13788030b)
+- 📧 Email: _(Tu email aquí o borra esta línea)_
