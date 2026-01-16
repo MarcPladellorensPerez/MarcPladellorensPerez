@@ -31,14 +31,12 @@
   <img src="https://skillicons.dev/icons?i=cs,unity,java,cpp,git,github,html,css,vscode,visualstudio&perline=10" />
 </div>
 
----
+<br/>
 
-### 📊 GitHub Stats
 <div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=MarcPladellorensPerez&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Marc's Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcPladellorensPerez&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="150" alt="Marc's Top Langs" />
-  </p>
+  <img src="https://img.shields.io/github/followers/MarcPladellorensPerez?label=Followers&style=for-the-badge&color=239120&logo=github" />
+  <img src="https://img.shields.io/github/stars/MarcPladellorensPerez?label=Stars&style=for-the-badge&color=ED8B00&logo=apachespark" />
+  <img src="https://img.shields.io/github/last-commit/MarcPladellorensPerez/MarcPladellorensPerez?label=Active&style=for-the-badge&color=100000&logo=github" />
 </div>
 
 ---
@@ -52,4 +50,5 @@
 
 ### 📫 Contact
 - 💼 LinkedIn: [Marc Pladellorens](https://www.linkedin.com/in/marc-pladellorens-pérez-13788030b)
-- 📧 Email: _(Tu email aquí o borra esta línea)_
+- 📧 Gmail: [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
+- 📸 Instagram: [@_maarcpl04](https://www.instagram.com/_maarcpl04/)
