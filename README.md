@@ -10,6 +10,7 @@
 ### 🧠 About me
 - 🎓 Student & self-taught developer
 - 🕹️ Interested in **game development**, **C#**, **Java**, **graphics & shaders**
+- 🏰 Passionate about **Unreal Engine**, **UEFN** & **Verse**
 - 🔥 I love building projects and learning by doing
 - 🌍 Based in Spain
 
@@ -28,7 +29,12 @@
 
 ### 🛠️ Tech Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,unity,java,cpp,git,github,html,css,vscode,visualstudio&perline=10" />
+  <img src="https://skillicons.dev/icons?i=cs,unity,unreal,java,cpp,git,github,html,css,vscode,visualstudio&perline=11" />
+  
+  <br/><br/>
+  
+  <img src="https://img.shields.io/badge/UEFN-313131?style=for-the-badge&logo=fortnite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Verse_Lang-000000?style=for-the-badge&logo=epicgames&logoColor=white" />
 </div>
 
 <br/>
@@ -42,13 +48,14 @@
 ---
 
 ### 📌 Featured Projects
-- 🎮 [**DestroyPlanet**](https://github.com/MarcPladellorensPerez/DestroyPlanet) – Game prototype in ShaderLab
-- 🧪 [**VideogamePlatformWorkspace**](https://github.com/MarcPladellorensPerez/VideogamePlatformWorkspace) – C# experiments & logic
-- 🚀 [**App-Program-Workspace**](https://github.com/MarcPladellorensPerez/App-Program-Workspace) – Java practice & tools
+- 🏰 [**UEFN Verse Codes**](https://github.com/MarcPladellorensPerez/Fisica2-ExtraProject-UEFN-VerseCodes) – Fortnite Creative physics & scripts
+- 🏎️ [**RaceGame**](https://github.com/MarcPladellorensPerez/RaceGame_Fisica2) – Physics-based racing game prototype
+- 🎮 [**PlatformGame**](https://github.com/MarcPladellorensPerez/PlatformGame_GameDevelopment) – Platformer mechanics & level design
+- 🏋️ [**Gimnasio Viturtia**](https://github.com/MarcPladellorensPerez/gimnasioviturtia-project-showcase) – Custom website developed for a local gym
 
 ---
 
 ### 📫 Contact
 - 💼 LinkedIn: [Marc Pladellorens](https://www.linkedin.com/in/marc-pladellorens-pérez-13788030b)
-- 📧 Gmail: [tu_correo@gmail.com](mailto:tu_correo@gmail.com)
+- 📧 Gmail: [mpladellorensperez@gmail.com](mailto:mpladellorensperez@gmail.com)
 - 📸 Instagram: [@_maarcpl04](https://www.instagram.com/_maarcpl04/)
