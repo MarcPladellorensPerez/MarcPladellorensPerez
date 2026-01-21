@@ -37,12 +37,18 @@
   <img src="https://img.shields.io/badge/Verse_Lang-000000?style=for-the-badge&logo=epicgames&logoColor=white" />
 </div>
 
-<br/>
+---
 
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://img.shields.io/github/followers/MarcPladellorensPerez?label=Followers&style=for-the-badge&color=239120&logo=github" />
-  <img src="https://img.shields.io/github/stars/MarcPladellorensPerez?label=Stars&style=for-the-badge&color=ED8B00&logo=apachespark" />
-  <img src="https://img.shields.io/github/last-commit/MarcPladellorensPerez/MarcPladellorensPerez?label=Active&style=for-the-badge&color=100000&logo=github" />
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=MarcPladellorensPerez&show_icons=true&theme=tokyonight&hide_border=true" alt="Marc's Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcPladellorensPerez&layout=compact&theme=tokyonight&hide_border=true" alt="Marc's Top Langs" />
+    </a>
+  </p>
 </div>
 
 ---
@@ -59,3 +65,11 @@
 - 💼 LinkedIn: [Marc Pladellorens](https://www.linkedin.com/in/marc-pladellorens-pérez-13788030b)
 - 📧 Gmail: [mpladellorensperez@gmail.com](mailto:mpladellorensperez@gmail.com)
 - 📸 Instagram: [@_maarcpl04](https://www.instagram.com/_maarcpl04/)
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/github/followers/MarcPladellorensPerez?label=Followers&style=for-the-badge&color=239120&logo=github" />
+  <img src="https://img.shields.io/github/stars/MarcPladellorensPerez?label=Stars&style=for-the-badge&color=ED8B00&logo=apachespark" />
+  <img src="https://img.shields.io/github/last-commit/MarcPladellorensPerez/MarcPladellorensPerez?label=Active&style=for-the-badge&color=100000&logo=github" />
+</div>
